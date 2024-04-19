@@ -33,14 +33,12 @@ export const aboutMe = {
     {
       id: 3,
       text: `
-      Here's the corrected version:
-
-      "I am an extremely friendly and approachable individual who enjoys collaborating with others to create 
+      I am an extremely friendly and approachable individual who enjoys collaborating with others to create 
       innovative projects in the fields of Data Engineering and Artificial Intelligence. My passion for Data 
       Engineering and AI extends across various domains, with a particular focus on Data Pipelines and Natural 
       Language Processing (NLP). I am driven by the desire to develop useful applications that have a positive 
       and meaningful impact on people's lives. I thrive in working with diverse teams, sharing knowledge, and 
-      learning from each other to achieve our goals together."
+      learning from each other to achieve our goals together.
            `,
       icon: "🎯",
     },
